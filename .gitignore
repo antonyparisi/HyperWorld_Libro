@@ -1,0 +1,9 @@
+﻿################################################################################
+# Il file gitignore è stato creato automaticamente da Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/HyperWorld_Libro/CopilotIndices/0.2.1634.3922
+/.vs/HyperWorld_Libro/FileContentIndex
+/.vs/HyperWorld_Libro/v17
+/.vs/slnx.sqlite
+/.vs/VSWorkspaceState.json
